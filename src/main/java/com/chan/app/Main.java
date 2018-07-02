@@ -8,6 +8,8 @@ public class Main {
 
         System.out.println(args[0] + " Chandra " + args[1]);
 
+        System.out.println("Git Configured... Feed for Git");
+
 
     }
 }
